@@ -5,7 +5,7 @@
 4. [Colaboradores.](#colaboradores)
 
 ### Información General
-Este [repositorio] (https://github.com/Emm3-z/PetCare.git) contiene el desarrollo de una aplicación móvil híbrida para reportar mascotas y a su vez gestionar citas veterinarias y dar seguimiento al historial médico de las mascotas.
+Este [repositorio](https://github.com/Emm3-z/PetCare.git) contiene el desarrollo de una aplicación móvil híbrida para reportar mascotas y a su vez gestionar citas veterinarias y dar seguimiento al historial médico de las mascotas.
 ***
 ## Tecnologías
 A continuación se encuentra una lista de las tecnologías usadas durant este proyecto:
