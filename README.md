@@ -25,7 +25,7 @@ Este repositorio [repositorio](https://github.com/Emm3-z/PetCare.git) contiene e
 ***
 ### Tecnologías
 A continuación se encuentra una lista de las tecnologías usadas durant este proyecto:
-- **Backend:** JavaScript + Spring Boot.
+- **Backend:** Spring Boot.
 - **Frontend:** React Native + Expo.
 - **Base de datos:** PostgreSQL.
 ***
