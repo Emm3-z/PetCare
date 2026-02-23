@@ -86,7 +86,7 @@ Para el desarrollo del presente proyecto se aplicará la especificación **Conve
 * `chore:` Para tareas de mantenimiento (configuración, dependencias, etc.)
 ***
 ### Git Flow
-El proyecto implementa una estrategia Git Flow, un flujo de Pull Requests (PR) para integración de código y la especificación Conventional Commits para el control de versiones. A continuación se describe un ejemplo:
+El presente proyecto implementa una estrategia Git Flow, un flujo de Pull Requests (PR) para integración de código y la especificación Conventional Commits para el control de versiones. A continuación se describe un ejemplo del modelo de flujo de trabajo implementado en este repositorio:
 1. Crear una rama de funcionalidad desde `develop`
 ```
 git checkout develop
@@ -107,8 +107,8 @@ git push origin feature/registro-mascotas
    * Seleccionar como base `develop` y en `compare` feature/registro-mascotas.
    * Agregar descripción del PR.
    * Crear Pull Request.
-5. Fusionar la rama feature/registro-mascotas en develop<br>
-   Una vez que se haya revisado el código por otro contribuyente, se procede a dar click en `Merge Pull Request`.
+5. Fusionar la rama feature/registro-mascotas en `develop`<br>
+   Una vez el código haya sido revisado y aprobado por otro contribuyente, puede procederse a dar click en `Merge Pull Request`.
 ***
 ### Instalación
 ***
